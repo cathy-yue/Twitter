@@ -21,8 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/dEs2OgQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/dEs2OgQ.gif" width=250><br>
 
 
 # Twitter - Part I
