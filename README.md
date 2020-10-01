@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/a/dEs2OgQ.gif" width=250><br>
+![Alt Text](https://imgur.com/a/dEs2OgQ.gif)
 
 
 # Twitter - Part I
